@@ -29,7 +29,7 @@
     box-sizing: border-box;
   }
   
-  .board {
+  .board{
     width: fit-content;
     margin: 40px auto;
     text-align: center;
@@ -58,7 +58,7 @@
     color: #222;
   }
   
-  .board {
+  .board .game{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
